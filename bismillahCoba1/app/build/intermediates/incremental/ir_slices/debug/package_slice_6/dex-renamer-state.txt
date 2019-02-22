@@ -1,0 +1,4 @@
+#Fri Feb 22 19:24:05 ICT 2019
+base.0=D\:\\sumber\\single\\bismillahCoba1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
